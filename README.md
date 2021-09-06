@@ -14,3 +14,7 @@
 
 1. [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 2. [Graph-Based Deep Learning Research Papers](https://github.com/naganandy/graph-based-deep-learning-literature)
+
+# Extras:
+
+1.[AML Sim:Multi-agent simulator of anti-money laundering - namely AML, and sharing synthetically generated data](https://github.com/D61-IA/AMLSim)
