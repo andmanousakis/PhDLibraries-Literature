@@ -18,4 +18,4 @@
 
 # Extras:
 
-* [AML Sim:Multi-agent simulator of anti-money laundering - namely AML, and sharing synthetically generated data](https://github.com/D61-IA/AMLSim)
+* [AML Sim: Multi-agent simulator of anti-money laundering - namely AML, and sharing synthetically generated data](https://github.com/D61-IA/AMLSim)
