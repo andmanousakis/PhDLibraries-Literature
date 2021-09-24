@@ -1,4 +1,4 @@
-# Repositories:
+# Libraries:
 
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 * [PySyft: Python library for secure and private Deep Learning](https://github.com/OpenMined/PySyft)
