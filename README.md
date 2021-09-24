@@ -9,7 +9,7 @@
 * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
 * [TnodeEmbed: Node Embedding over Temporal Graphs](https://github.com/urielsinger/tNodeEmbed)
 * [Powerful GNNs](https://github.com/weihua916/powerful-gnns)
-* [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/IBM/EvolveGCN
+* [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/IBM/EvolveGCN)
 
 # Literature:
 
