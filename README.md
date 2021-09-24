@@ -1,4 +1,4 @@
-# Libraries:
+# Repositories:
 
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 * [PySyft: Python library for secure and private Deep Learning](https://github.com/OpenMined/PySyft)
@@ -9,6 +9,7 @@
 * [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
 * [TnodeEmbed: Node Embedding over Temporal Graphs](https://github.com/urielsinger/tNodeEmbed)
 * [Powerful GNNs](https://github.com/weihua916/powerful-gnns)
+* [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://github.com/IBM/EvolveGCN
 
 # Literature:
 
