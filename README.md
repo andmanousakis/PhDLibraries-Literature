@@ -19,7 +19,7 @@
 # Data Collection:
 
 * [Elliptic BTC Graph Dataset](https://medium.com/elliptic/the-elliptic-data-set-opening-up-machine-learning-on-the-blockchain-e0a343d99a14)
-* Seeds: [Bitcoin Fog](https://www.walletexplorer.com/wallet/BitcoinFog)
+* Seeds: [Bitcoin Fog](https://www.walletexplorer.com/wallet/BitcoinFog), [BitLaunder](https://www.walletexplorer.com/wallet/BitLaunder.com/addresses)
 
 # Bitcoin Blockchain APIs:
 
