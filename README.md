@@ -16,15 +16,14 @@
 * [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 * [Graph-Based Deep Learning Research Papers](https://github.com/naganandy/graph-based-deep-learning-literature)
 
-# Graph Datasets:
+# Data Collection:
 
 * [Elliptic BTC Graph Dataset](https://medium.com/elliptic/the-elliptic-data-set-opening-up-machine-learning-on-the-blockchain-e0a343d99a14)
-* 2
 
 # Bitcoin Blockchain APIs:
 
 * [Blockcypher](https://www.blockcypher.com/)
 
-# Extras:
+# Simulators:
 
 * [AML Sim: Multi-agent simulator of anti-money laundering - namely AML, and sharing synthetically generated data](https://github.com/D61-IA/AMLSim)
